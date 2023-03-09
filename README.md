@@ -1,4 +1,4 @@
-👋 Hi, I’m @dvdhlms, formerly @DavidJWHolmes and @davidxholmes.
+👋 Hi, I’m @dvdhlms, a Software Engineer at Block (formerly known as Square). I currently work on the Afterpay product within the Cash App org.
 
 <!---
 dvdhlms/dvdhlms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
