@@ -1,4 +1,4 @@
-👋 Hi, I’m @dvdhlms, Senior Software Engineer @ Easygo | ex-Block (Afterpay).
+👋 Hi, I’m @dvdhlms, Senior Software Engineer @ Got2Go, Inc.
 
 <!---
 dvdhlms/dvdhlms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
