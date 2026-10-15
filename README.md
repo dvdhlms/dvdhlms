@@ -1,4 +1,12 @@
-👋 Hi, I’m @dvdhlms, Senior Software Engineer @ Got2Go, Inc.
+👋 Hi, I’m David Holmes.
+
+Senior Product Engineer based in Melbourne, Australia.
+
+Currently leading cross-platform mobile development at [Got2Go](https://got2go.com/).
+
+My recent work spans events, stays, rideshare, live streaming, and financial services.
+
+[Website](https://dvdhlms.com/) · [LinkedIn](https://www.linkedin.com/in/dvdhlms/)
 
 <!---
 dvdhlms/dvdhlms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
