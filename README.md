@@ -4,7 +4,7 @@ Senior Product Engineer based in Melbourne, Australia.
 
 Currently leading cross-platform mobile development at [Got2Go](https://got2go.com/).
 
-My recent work spans events, stays, rideshare, live streaming, and financial services.
+My work spans events, stays, rideshare, live streaming, financial services, and virtual assistants.
 
 [Website](https://dvdhlms.com/) · [LinkedIn](https://www.linkedin.com/in/dvdhlms/)
 
